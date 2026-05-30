@@ -1,0 +1,4 @@
+V (True\False) Write down here if you want to enable deep cleaning. IMPORTANT: if you enable this, it will ask you admin permission, only this time.
+deep_clean = False
+debug = False
+auto_schedule = True
