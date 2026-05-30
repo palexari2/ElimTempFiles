@@ -1,3 +1,5 @@
+I COMPLETELY DON'T KNOW WHY BUT THE ANTIVIRUS KEEPS FLASHING IT AS A TROJAN. DON'T WORRY, IT'S NOT.
+
 Hi, thanks for downloading Palexari12's temp files remover!
 
 Don't worry about windows blocking the elimination or if the script eliminates the files you're using: it won't!
